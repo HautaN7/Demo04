@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+*Copyright (C) Taavi Hautoniemi
+*
+*20.1.2016
+*Taavi Hautoniemi
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
