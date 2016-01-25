@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonApp", "PersonApp\Pers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiftApp", "LiftApp\LiftApp.csproj", "{0C0944FB-F533-4FF6-89B9-A157D9BA539C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioApp", "RadioApp\RadioApp.csproj", "{5DA6505B-1507-44D1-9CAD-9C87DB5D8228}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0C0944FB-F533-4FF6-89B9-A157D9BA539C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C0944FB-F533-4FF6-89B9-A157D9BA539C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C0944FB-F533-4FF6-89B9-A157D9BA539C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA6505B-1507-44D1-9CAD-9C87DB5D8228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA6505B-1507-44D1-9CAD-9C87DB5D8228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA6505B-1507-44D1-9CAD-9C87DB5D8228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA6505B-1507-44D1-9CAD-9C87DB5D8228}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
